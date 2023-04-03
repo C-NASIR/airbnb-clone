@@ -40,6 +40,7 @@ I am building a clone of the [Airbnb website](https://www.airbnb.com/) for learn
   - When you click on a listing a [detail page](https://www.airbnb.com/rooms/49328466?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=false&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-04-18&check_out=2023-04-23&federated_search_id=aa5d814f-1190-4ded-ab5d-40ccc39fbf98&source_impression_id=p3_1680548784_3Jj3BivsYpNstkEP) is navigated to that shows the listing details.
 
 ---
+# The Work breakdown structure I need to build the application. 
 
 ![Work break down structure](/images/WBS.png "Work break down structure image")
 
