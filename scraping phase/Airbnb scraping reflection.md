@@ -2,6 +2,8 @@ There is a [youtube playlist](https://www.youtube.com/playlist?list=PLdIF6sRfbwq
 
 # Reflection on scraping the AirBnB website.
 
+![Work break down structure](/images/WBS1.png "Work break down structure image")
+
 ## Goal: Scrap the data on the Airbnb home page.
 
 ### **\*\*\*\***\*\*\*\***\*\*\*\***Processes**\*\*\*\***\*\*\*\***\*\*\*\***
