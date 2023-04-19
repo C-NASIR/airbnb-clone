@@ -40,11 +40,8 @@ Finally, I could read some stuff. Nice. Then, I designed my plan to scrap the da
 12. Print out all the data in the correct format ready to be uploaded to a database or exported to another file.
 
 <aside>
-💡 I created a youtube playlist of this scraping with selenium. Suppose you would like to scrape or just want to watch how I am doing it. Feel free to watch.
-
+💡 I created a youtube playlist of this scraping with selenium. Suppose you would like to scrape or just want to watch how I am doing it. Feel free to watch.[Scraping Airbnb Youtube Playlist](https://youtube.com/playlist?list=PLdIF6sRfbwq7A3aUIkQaSYcdonZZDSgxB)
 </aside>
-
-[Scraping Airbnb](https://youtube.com/playlist?list=PLdIF6sRfbwq7A3aUIkQaSYcdonZZDSgxB)
 
 ### **\*\*\*\***Reflection and What I have learned**\*\*\*\***
 
