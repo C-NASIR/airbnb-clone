@@ -42,3 +42,7 @@ I am building a clone of the [Airbnb website](https://www.airbnb.com/) for learn
 ---
 
 ![Work break down structure](/images/WBS1.png "Work break down structure image")
+
+### Phase one complete 
+The reflection and the code for this page are in the "scraping phase" folder.
+
