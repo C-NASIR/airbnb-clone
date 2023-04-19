@@ -42,7 +42,9 @@ Finally, I could read some stuff. Nice. Then, I designed my plan to scrap the da
 <aside>
 💡 I created a youtube playlist of this scraping with selenium. Suppose you would like to scrape or just want to watch how I am doing it. Feel free to watch.
 </aside>
+
 [Scraping Airbnb Youtube Playlist](https://youtube.com/playlist?list=PLdIF6sRfbwq7A3aUIkQaSYcdonZZDSgxB)
+
 
 ### **\*\*\*\***Reflection and What I have learned**\*\*\*\***
 
