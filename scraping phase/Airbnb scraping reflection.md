@@ -1,8 +1,10 @@
+There is a [youtube playlist](https://www.youtube.com/playlist?list=PLdIF6sRfbwq7A3aUIkQaSYcdonZZDSgxB) associated with this reflection.
+
 # Reflection on scraping the AirBnB website.
 
 ## Goal: Scrap the data on the Airbnb home page.
 
-### ********\*\*\*\*********Processes********\*\*\*\*********
+### **\*\*\*\***\*\*\*\***\*\*\*\***Processes**\*\*\*\***\*\*\*\***\*\*\*\***
 
 **Scrapy**: Scrapy is one of the best Python data scraping frameworks.
 
@@ -44,7 +46,6 @@ Finally, I could read some stuff. Nice. Then, I designed my plan to scrap the da
 </aside>
 
 [Scraping Airbnb Youtube Playlist](https://youtube.com/playlist?list=PLdIF6sRfbwq7A3aUIkQaSYcdonZZDSgxB)
-
 
 ### **\*\*\*\***Reflection and What I have learned**\*\*\*\***
 
