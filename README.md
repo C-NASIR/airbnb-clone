@@ -1,7 +1,8 @@
 # Project Charter (v1)
 
-
-## NOTICE: This project is suspended. I was doing this while I was looking for a developer job, I got the job now and focusing on learning about the team and getting onbaord.
+___
+### **NOTICE:** This project is suspended. I was doing this while I was looking for a developer job, I got the job now and focusing on learning about the team and getting onbaord.
+___
 
 ## Project summary
 
