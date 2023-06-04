@@ -1,5 +1,8 @@
 # Project Charter (v1)
 
+
+## NOTICE: This project is suspended. I was doing this while I was looking for a developer job, I got the job now and focusing on learning about the team and getting onbaord.
+
 ## Project summary
 
 I am building a clone of the [Airbnb website](https://www.airbnb.com/) for learning purposes. I believe I will learn more about developing complex websites and applications by building across the tech stack. From scrapping data from the internet, cleaning and storing data in a database, accessing it using a backend framework and serving via Restful API, to building a front-end application using a modern framework.
