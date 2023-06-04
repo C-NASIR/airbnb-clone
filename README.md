@@ -2,7 +2,7 @@
 
 ___
 ### **NOTICE** 
-This project is suspended. I was doing this while I was looking for a developer job, I got the job now and focusing on learning about the team and getting onbaord.
+This project is suspended. I was doing this while I was looking for a developer job, I got the job now and focusing on learning about the team and getting onboard.
 ___
 
 ## Project summary
